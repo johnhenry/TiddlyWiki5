@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "npm install && ./bin/ci-pre-build.sh",
+    "test": "npm install && npm test"
+  }
+}
